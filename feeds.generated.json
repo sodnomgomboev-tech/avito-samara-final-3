@@ -2,17 +2,7 @@
   "feeds": [
     {
       "feed_name": "02_gruzchiki_na_chas_samara",
-      "feed_url": "https://raw.githubusercontent.com/sodnomgomboev-tech/avito-samara-final-3/main/public/output/02_gruzchiki_na_chas_samara.xlsx",
-      "wait_after_minutes": 61
-    },
-    {
-      "feed_name": "03_pereezdy_samara",
-      "feed_url": "https://raw.githubusercontent.com/sodnomgomboev-tech/avito-samara-final-3/main/public/output/03_pereezdy_samara.xlsx",
-      "wait_after_minutes": 61
-    },
-    {
-      "feed_name": "04_razgruzka_fur_sklady_samara",
-      "feed_url": "https://raw.githubusercontent.com/sodnomgomboev-tech/avito-samara-final-3/main/public/output/04_razgruzka_fur_sklady_samara.xlsx",
+      "feed_url": "https://raw.githubusercontent.com/sodnomgomboev-tech/avito-samara-final-3/main/02_gruzchiki_na_chas_samara.xlsx",
       "wait_after_minutes": 61
     }
   ]
